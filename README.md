@@ -19,4 +19,4 @@ The game is going to test a player's typing skill, which is one of the most unde
 
 ### Links :
 
-- Live Site URL: [View Live Demo](https://typing-game-teal-eight.vercel.app/)
+- Live Site URL: [View Live Demo](https://hendsaeedd.github.io/Typing-Game/)
