@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+@layer utilities {}
+input{
+    @apply rounded border-solid border flex justify-center h-12 my-2 mx-auto p-2;
+    color: rgba(18, 18, 18, 1);
+    width: 75%;
+    border-color: rgba(99, 99, 99, 1);
+    outline: none;
+    border: lightblue;
+    background-color: #e3e9ff;
+}}
+.highlight {
+    background-color: yellow;
+}
+.error {
+    background-color: lightcoral;
+    border: red;
+}
