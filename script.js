@@ -18,7 +18,6 @@ const quotes = [
     'Two things are infinite: the universe and human stupidity; and I am not sure about the universe',
     'When you have eliminated the impossible, whatever remains, however improbable, must be the truth.',
     'I believe that the universe is fundamentally non-logical. It is not governed by reason, but by passion.',
-    'I ought to know by this time that when a fact appears to be opposed to a long train of deductions it invariably proves to be capable of bearing some other interpretation.',
 ];
 
 let words = [];
