@@ -10,6 +10,7 @@ const quotes = [
     'Be yourself, everyone else is already taken.',
     'What one man can invent another can discover.',
     'There is nothing more deceptive than an obvious fact.',
+    'Life is what happens when you are busy making other plans.',
     'I am a brain, Watson. The rest of me is a mere appendix.',
     'I never make exceptions. An exception disproves the rule.',
     'Nothing clears up a case so much as stating it to another person.',
